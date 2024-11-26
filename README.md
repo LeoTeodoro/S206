@@ -2,7 +2,9 @@
 
 Repositório para qualidade de software
 
---Dentro da Aula_cypress
+--LISTA_1
+
+dentro do diretório Lista_1
 
 para abrir o cypress:
 npm run cy:open
