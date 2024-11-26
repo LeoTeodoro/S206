@@ -10,7 +10,14 @@ npm run cy:open
 para gerar o reports:
 ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
 
+--LISTA API
+
+dentro do diretório Lista_Exercícios_API:
+newman run '.\Lista.postman_collection.json' -r htmlextra
+
 --PROVA LABORATÓRIO
+
+A função criada está nos commands.
 
 comando para rodar os testes de cypress e gerar o relatório:
 
