@@ -1,0 +1,4 @@
+2) 
+1-Manuais, porém com o uso do Newman eles se tornam automatizados
+2-Não, são testes apenas da API da aplicação
+3-Deve-se usar o comando do terminal do Newman para teste, para que o mesmo possa ser inserido em uma esteira de CI, assim sempre que haja uma nova implementação, os testes irão rodar
